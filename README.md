@@ -1,6 +1,14 @@
 # SPLC2020 - A Conceptual Model for Unifying Variability in Space and Time - Artifacts
 
-These artifacts relate to the SPLC'20 research paper "A Conceptual Model for Unifying Variability in Space and Time" (no. 37). In the following, we provide a short description of the artifacts produced during the construction process of the unified conceptual model.
+These artifacts relate to the SPLC'20 research paper "A Conceptual Model for Unifying Variability in Space and Time" (no. 37). For arriving at the unified conceptual model presented in the paper, we
+
+	1. conducted interviews with experts of selected tools to understand to what extent the initial conceptual model captures concepts of contemporary tools and which adaptations are needed
+	2. refined and unified the conceptual model based on the answers and follow-up joint workshops until the model converged to a consensual state
+	3. provided questionnaires to the tool experts to map concepts and relations of their tool to the unified conceptual model 
+	4. based on the questionnaires, qualitatively and quantitatively validated the fit of the unified conceptual model to the considered tools
+
+In the following, we provide a short description of the artifacts produced during the construction process of the unified conceptual model.
+
 
 * InitialConceptualModel_Interviews
 
