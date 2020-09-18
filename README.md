@@ -18,7 +18,7 @@ In the following, we provide a short description of the artifacts produced durin
     * `model_mapping.xlsx`
     * `model_metrics_evaluation.xlsx`
 
-For a holistic understanding of the construction process of the unified conceptual model, we refer to Figure 4 of the research paper where we describe the complete process.
+For a holistic understanding of the construction process of the unified conceptual model, we refer to Figure 3 and Figure 5 of the research paper where we describe the complete process.
 
 ## Interviews 
 
