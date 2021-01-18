@@ -1,6 +1,6 @@
-# SPLC2020 - A Conceptual Model for Unifying Variability in Space and Time - Artifacts
+# EMSE2021 - A Conceptual Model for Unifying Variability in Space and Time - Artifacts
 
-These artifacts relate to the SPLC'20 research paper "A Conceptual Model for Unifying Variability in Space and Time" (no. 37). For arriving at the unified conceptual model presented in the paper, we
+These artifacts relate to the EMSE'21 research paper "A Conceptual Model for Unifying Variability in Space and Time". For arriving at the unified conceptual model presented in the paper, we
 
 	1. conducted interviews with experts of selected tools to understand to what extent the initial conceptual model captures concepts of contemporary tools and which adaptations are needed
 	2. refined and unified the conceptual model based on the answers and follow-up joint workshops until the model converged to a consensual state
@@ -15,6 +15,7 @@ In the following, we provide a short description of the artifacts produced durin
 * UnifiedConceptualModel_Questionnaires
 
 * Validation_Output
+    * `fca_concepts_relations.cex`
     * `model_mapping.xlsx`
     * `model_metrics_evaluation.xlsx`
 
@@ -29,6 +30,11 @@ Each interview involved four parts. First, the initial conceptual model (Ananiev
 ## Questionnaires 
 
 For the validation of the unified conceptual model, we conducted a survey based on a questionnaire that we provided to the tool experts that were interviewed before (`QuestionnaireGuideline_UnifiedConceptualModel.pdf`). Each questionnaire comprised two parts and was structured similarly to the interview. First, we introduced the unified (not the initial) conceptual model and provided definitions of its concepts and relations. Second, we asked whether each concept and relation of the unified conceptual model could be mapped to constructs and relations of the respective tool, also taking into account unmapped constructs and the names of each tool construct. We also asked for general remarks. Note, that we refrained from explicit expert interviews since all tool experts were already familiar with the mapping procedure. The answers of tool experts in the questionnaires were occasionally vague, incomplete or posing questions. We carefully analyzed the answers and conferred with tool experts. Text that has been added to a questionnaire due to clarification is colored red. Generally, we took the answers in the questionnaires as literally as possible with minimum amount of interpretation.
+
+## Formal Concept Analysis (FCA)
+
+We perform a formal concept analysis (FCA) to further explore and broaden our understanding of commonalities and differences among tools and between tools and the conceptual model. To perform the FCA, we use the tool ConExp (http://conexp.sourceforge.net/). The file `fca_concepts_relations` contains the input matrix consisting of tools (objects) and concepts and relations (attributes) the FCA was build on. 
+
 
 ## model_mapping
 
